@@ -1,4 +1,4 @@
-# NewsWorld -  📰 News Search Website
+# [NewsWorld](https://jaint09.github.io/NewsWorld/) -  📰 News Search Website
 
 A responsive news search website built with **HTML, CSS, and JavaScript**, integrated with the **NewsAPI**.  
 The app lets users browse the latest headlines by **category** or **keyword**, and each news card is clickable, opening the full article on the original news website.
