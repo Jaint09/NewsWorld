@@ -1,6 +1,6 @@
 class NewsApp {
     constructor(){
-        this.API_KEY = "b28548d8f7874d9ba12e4a4ae274915e";
+        this.API_KEY = "Your-API";  //news ai api key
         this.BASE_URL = "https://newsapi.org/v2"; 
 
         this.state = {
@@ -228,5 +228,6 @@ class NewsApp {
         }
     
 }
+
 
 document.addEventListener("DOMContentLoaded",()=> new NewsApp())
